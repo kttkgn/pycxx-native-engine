@@ -1,6 +1,5 @@
 # pycxx-native-engine (pybind11) 
 混合 C + C++ 架构，使用 **pybind11** 作为 Python 绑定层。
-此示例包含最小可工作的工程结构、C 算法、C++ 封装、pybind11 绑定以及 CMake 构建脚本。
 
 ## 依赖
 - CMake >= 3.14
